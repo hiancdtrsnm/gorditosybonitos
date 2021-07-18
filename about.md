@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Authors:
+
+![hiancdtrsnm](https://avatars.githubusercontent.com/u/7343177?s=400&v=4)
 
 ### More Information
 
